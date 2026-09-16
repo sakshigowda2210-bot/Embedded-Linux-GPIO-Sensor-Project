@@ -13,3 +13,12 @@ Embedded Linux GPIO and temperature sensor simulation using C, ARM cross compila
 - ARM cross-compilation
 - QEMU ARM emulation
 - Temperature data logging to CSV
+
+- ## Technologies Used
+
+- C Programming
+- Embedded Linux
+- ARM GCC Cross Compiler
+- QEMU
+- Linux / WSL2
+- GPIO and 1-Wire Sensor Concepts
