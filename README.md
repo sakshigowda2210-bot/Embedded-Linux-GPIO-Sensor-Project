@@ -1,6 +1,9 @@
 # Embedded Linux GPIO Sensor Project
 
 Embedded Linux GPIO and temperature sensor simulation using C, ARM cross compilation, and QEMU.
+## Project Overview
+
+This project demonstrates basic Embedded Linux development using C programming. GPIO control and a DS18B20 temperature sensor are simulated using Linux file interfaces. The applications are cross-compiled for ARM and executed using QEMU emulation.
 
 ## QEMU GPIO Test
 
