@@ -18,6 +18,15 @@ This project demonstrates basic Embedded Linux development using C programming. 
 ## QEMU GPIO Test
 
 ![QEMU GPIO Test](./linux.png)
+## Project Structure
+
+- `gpio_blink.c` — GPIO17 HIGH/LOW control program
+- `sensor_log.c` — DS18B20 temperature reading and logging
+- `sim/` — Simulated GPIO and 1-Wire sensor files
+- `sys/` — Simulated Linux system interface
+- `temp_log.csv` — Recorded temperature data
+- `linux.png` — QEMU GPIO test output
+- `.gitignore` — Ignores generated files
 
 ## Features
 
